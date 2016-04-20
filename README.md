@@ -8,14 +8,12 @@ Le but de ce projet est de réaliser une application permettant d'envoyer automa
 
 Il suffit de:
 
-1. Remplir les différents fichiers de configuration
-
-* server.xml : contient les paramètre de connexion au serveur
-* email_addresses.xml : contient une liste d'adresses e-mail
-* email_content.xml : contient une liste d'e-mails (sujet et contenu) à envoyer
-
-2. Lancer l'application
-3. Entrer le nombre de groupes à créer
+- Remplir les différents fichiers de configuration:
+  - server.xml : contient les paramètre de connexion au serveur
+  - email_addresses.xml : contient une liste d'adresses e-mail
+  - email_content.xml : contient une liste d'e-mails (sujet et contenu) à envoyer
+- Lancer l'application
+- Entrer le nombre de groupes à créer
 
 ## Installation du serveur SMTP
 
