@@ -13,7 +13,7 @@ Le Mock SMTP utilisé ici est FakeSMTP (https://nilhcem.github.io/FakeSMTP/downl
 * **Connexion:** Une fois lancé, on peut s'y connecter (en telnet, par exemple) à l'adresse "localhost" sur le port 25.
 
 ## Diagramme de classes
-
+![image](./uml.png)
 
 ## Description des classes
 
