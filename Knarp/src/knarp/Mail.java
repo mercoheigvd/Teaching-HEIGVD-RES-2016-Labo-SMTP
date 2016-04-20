@@ -20,6 +20,7 @@ public class Mail {
         return _content;
     }
 
+    /* Affichage du mail */
     public void show(){
         System.out.println("Subject : " + _subject);
         System.out.println(_content);
