@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<mails>
+    <mail>
+        <subject>The Ring</subject>
+        <content>One Ring to rule them all, one Ring to find them, one Ring to bring them all and in the darkness bind them</content>
+    </mail>
+    <mail>
+        <subject>Philosophy</subject>
+        <content>Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement. For even the very wise cannot see all ends.</content>
+    </mail>
+    <mail>
+        <subject>Darkness</subject>
+        <content>Then at last his gaze was held: wall upon wall, battlement upon battlement, black, immeasurably strong, mountain of iron, gate of steel, tower of adamant, he saw it: Barad-dûr, Fortress of Sauron. All hope left him.</content>
+    </mail>
+    <mail>
+        <subject>Wisdom</subject>
+        <content>I will not say: do not weep; for not all tears are an evil.</content>
+    </mail>
+    <mail>
+        <subject>Betraying</subject>
+        <content>Let us remember that a traitor may betray himself and do good that he does not intend.</content>
+    </mail>
+    <mail>
+        <subject>Born of the evil</subject>
+        <content>For nothing is evil in the beginning. Even Sauron was not so.</content>
+    </mail>
+</mails>
