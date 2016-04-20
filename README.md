@@ -12,16 +12,14 @@ Le Mock SMTP utilisé ici est FakeSMTP (https://nilhcem.github.io/FakeSMTP/downl
 * **Mise en oeuvre**: Une fois le programme lancé, il suffit de déterminer à quel endroit le mails reçus seront enregistrés dans le champs prévu à cet effet, et de lancer le serveur ("Start server").
 * **Connexion:** Une fois lancé, on peut s'y connecter (en telnet, par exemple) à l'adresse "localhost" sur le port 25.
 
-## Diagramme de classes
+## Diagramme de classes et description des classes
 ![image](./uml.png)
-
-## Description des classes
 
 ### Main
 Cette classe ne fait que créer l'objet de génération avec les fichiers de configuration définis en constantes,  demander à l'utilisateur le nombre de groupes à créer, puis lancer la génération.
 
 ### SMTP
-Ne contient que les commandes SMTP
+Ne contient que les commandes SMTP nécessaires au fonctionnement du serveur SMTP
 
 ### Mail
 Permet de stocker les différents mails à choix (sujet et contenu du mail)
@@ -36,3 +34,6 @@ Classe principale de l'application. Gère automatiquement toutes les étapes de 
 * Lecture du fichier de mails
 * Génération de groupes d'envoi de mails avec un émetteur et une liste de récepteurs
 * Envoi d'un mail (choisi au hasard) aux listes de mails
+
+### Auteurs
+Thibaut Loiseau & Romain Mercier
