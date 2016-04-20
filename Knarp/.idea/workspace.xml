@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -46,58 +46,42 @@
         <entry file="file://$PROJECT_DIR$/src/knarp/Mail.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-                <element signature="e#320#321#0" expanded="false" />
-                <element signature="e#351#352#0" expanded="false" />
-                <element signature="e#385#386#0" expanded="false" />
-                <element signature="e#416#417#0" expanded="false" />
                 <element signature="method#show#0;class#Mail#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Knarp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Knarp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/knarp/Knarp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3302325">
-              <caret line="103" column="60" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="238" column="9" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-                <element signature="method#connect#0;class#Knarp#0" expanded="false" />
                 <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-                <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
                 <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
                 <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-                <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-                <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdressList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+      <file leaf-file-name="Group.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <caret line="62" column="60" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="60" />
               <folding>
-                <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-                <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-                <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-                <element signature="e#834#835#0" expanded="false" />
-                <element signature="e#874#875#0" expanded="false" />
-                <element signature="e#968#969#0" expanded="false" />
-                <element signature="e#1001#1002#0" expanded="false" />
-                <element signature="e#1063#1064#0" expanded="false" />
-                <element signature="e#1093#1094#0" expanded="false" />
-                <element signature="e#1170#1171#0" expanded="false" />
-                <element signature="e#1202#1203#0" expanded="false" />
-                <element signature="method#show#0;class#AdressList#0" expanded="false" />
-                <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+                <element signature="method#Group#0;class#Group#0" expanded="false" />
+                <element signature="method#Group#1;class#Group#0" expanded="false" />
+                <element signature="method#Group#2;class#Group#0" expanded="false" />
+                <element signature="method#show#0;class#Group#0" expanded="false" />
+                <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -106,18 +90,18 @@
       <file leaf-file-name="server.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state vertical-scroll-proportion="-1.4193548">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="email_contents.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="email_contents.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email_contents.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.8148148">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -126,8 +110,8 @@
       <file leaf-file-name="email_addresses.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/email_addresses.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state vertical-scroll-proportion="-3.548387">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -161,14 +145,14 @@
         <option value="$PROJECT_DIR$/src/trap/knarp/AdressList.java" />
         <option value="$PROJECT_DIR$/src/trap/knarp/Knarp.java" />
         <option value="$PROJECT_DIR$/src/knarp/SMTPProtocol.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/knarp/SMTP.java" />
-        <option value="$PROJECT_DIR$/src/knarp/Mail.java" />
-        <option value="$PROJECT_DIR$/server.xml" />
-        <option value="$PROJECT_DIR$/email_contents.xml" />
-        <option value="$PROJECT_DIR$/email_addresses.xml" />
         <option value="$PROJECT_DIR$/src/knarp/AdressList.java" />
+        <option value="$PROJECT_DIR$/server.xml" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/knarp/Mail.java" />
+        <option value="$PROJECT_DIR$/email_addresses.xml" />
         <option value="$PROJECT_DIR$/src/knarp/Knarp.java" />
+        <option value="$PROJECT_DIR$/email_contents.xml" />
       </list>
     </option>
   </component>
@@ -210,7 +194,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,10 +204,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knarp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -507,8 +533,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -517,10 +543,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2458287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23804227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13987139" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1414791" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -599,10 +625,6 @@
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
             <element signature="method#show#0;class#Mail#0" expanded="false" />
           </folding>
         </state>
@@ -615,35 +637,23 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="35" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="35" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,10 +696,6 @@
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
             <element signature="method#show#0;class#Mail#0" expanded="false" />
           </folding>
         </state>
@@ -702,35 +708,23 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="35" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="35" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -773,10 +767,6 @@
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
             <element signature="method#show#0;class#Mail#0" expanded="false" />
           </folding>
         </state>
@@ -789,35 +779,23 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="35" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="35" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -860,10 +838,6 @@
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
             <element signature="method#show#0;class#Mail#0" expanded="false" />
           </folding>
         </state>
@@ -876,35 +850,23 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="35" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="35" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -947,10 +909,6 @@
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
             <element signature="method#show#0;class#Mail#0" expanded="false" />
           </folding>
         </state>
@@ -963,13 +921,9 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -990,24 +944,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1020,24 +966,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1049,13 +987,9 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1081,27 +1015,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email_contents.xml">
+    <entry file="file://$PROJECT_DIR$/server.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/email_addresses.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.xml">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Mail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="method#Mail#0;class#Mail#0" expanded="false" />
+            <element signature="method#show#0;class#Mail#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1113,66 +1058,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/knarp/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/AdressList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <caret line="62" column="60" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="60" />
           <folding>
-            <element signature="method#AdressList#0;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#1;class#AdressList#0" expanded="false" />
-            <element signature="method#AdressList#2;class#AdressList#0" expanded="false" />
-            <element signature="e#834#835#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1093#1094#0" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="method#show#0;class#AdressList#0" expanded="false" />
-            <element signature="method#generateGroups#0;class#AdressList#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/knarp/Mail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="method#Mail#0;class#Mail#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="method#show#0;class#Mail#0" expanded="false" />
+            <element signature="method#Group#0;class#Group#0" expanded="false" />
+            <element signature="method#Group#1;class#Group#0" expanded="false" />
+            <element signature="method#Group#2;class#Group#0" expanded="false" />
+            <element signature="method#show#0;class#Group#0" expanded="false" />
+            <element signature="method#generateGroups#0;class#Group#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/knarp/Knarp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3302325">
-          <caret line="103" column="60" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="238" column="9" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Knarp#0;class#Knarp#0" expanded="false" />
-            <element signature="method#connect#0;class#Knarp#0" expanded="false" />
             <element signature="method#disconnect#0;class#Knarp#0" expanded="false" />
-            <element signature="method#sendMessages#0;class#Knarp#0" expanded="false" />
             <element signature="method#getAdresses#0;class#Knarp#0" expanded="false" />
             <element signature="method#getEmails#0;class#Knarp#0" expanded="false" />
-            <element signature="method#prank#0;class#Knarp#0" expanded="false" />
-            <element signature="method#waitForAnswer#0;class#Knarp#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_contents.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8148148">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <addresses>
-    <address>aragorn@lotr.tk</address>
-    <address>frodon@lotr.tk</address>
-    <address>samsagace@lotr.tk</address>
-    <address>pipin@lotr.tk</address>
-    <address>gandalf@lotr.tk</address>
-    <address>gimli@lotr.tk</address>
-    <address>legolas@lotr.tk</address>
-    <address>boromir@lotr.tk</address>
-    <address>gollum@lotr.tk</address>
-    <address>theoden@lotr.tk</address>
-    <address>faramir@lotr.tk</address>
-    <address>bilbo@lotr.tk</address>
+    <address>thibaut.loiseau@heig-vd.ch</address>
+    <address>romain.mercier@heig-vd.ch</address>
+    <address>benjamin.schubert@heig-vd.ch</address>
 </addresses>

@@ -11,7 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        Knarp k = new Knarp(SERVER, EMAIL_ADDRESSES, EMAIL_CONTENTS);
+        Knarp kn = new Knarp(SERVER, EMAIL_ADDRESSES, EMAIL_CONTENTS);
         int groups;
 
         // Lecture de l'entrée utilisateur
@@ -19,6 +19,6 @@ public class Main {
         System.out.print("> ");
         groups = input.nextInt();
 
-        k.prank(groups);
+        kn.prank(groups);
     }
 }

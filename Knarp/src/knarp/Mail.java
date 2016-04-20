@@ -10,10 +10,12 @@ public class Mail {
         _content = content;
     }
 
+    /* Obtention du sujet du mail */
     public String getSubject() {
         return _subject;
     }
 
+    /* Obtention du contenu du mail */
     public String getContent() {
         return _content;
     }

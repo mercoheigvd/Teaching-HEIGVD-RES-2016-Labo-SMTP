@@ -66,6 +66,7 @@ public class Knarp {
             _writer = new PrintWriter(_socket.getOutputStream(), true);
             _reader = new BufferedReader(new InputStreamReader(_socket.getInputStream()));
 
+            _reader.readLine();
             if (!_writer.checkError()) {
                 do {
                     _writer.println(SMTP.HELO + " client");
@@ -101,14 +102,10 @@ public class Knarp {
     *  Méthode d'envoi de messages:
     *  Cette méthode choisit un mail au hasard dans la liste en paramètre et l'envoie à toutes les adresses
     */
-    private void sendMessages(AdressList a, Vector<Mail> m) {
-        Random rand = new Random();
-        Mail mail = m.elementAt(rand.nextInt(m.size()));
+    private void sendMessages(Group a, Mail mail) {
 
         if (!_writer.checkError()) {
             for (String ad : a.getReceivers()) {
-                //Mail mail = m.elementAt(rand.nextInt(m.size()));
-
                 do {
                     _writer.println(SMTP.MAIL_FROM + a.getSender());
                     System.out.println(SMTP.MAIL_FROM + a.getSender());
@@ -200,21 +197,23 @@ public class Knarp {
     }
 
     /* Méthode principale de la classe, permet de lancer l'envoi des blagues */
-    public void prank(int groups) {
+    public void prank(int nbgroups) {
+        Random rand = new Random();
+
         // Obtention des informations nécessaires
         Vector<String> adresses = getAdresses();
         Vector<Mail> mails = getEmails();
 
         // Génération des groupes
-        Vector<AdressList> addlist = AdressList.generateGroups(adresses, groups);
+        Vector<Group> groups = Group.generateGroups(adresses, nbgroups);
 
-        for (AdressList adr : addlist) {
+        for (Group grp : groups) {
+            Mail mail = mails.elementAt(rand.nextInt(mails.size()));
             connect();
-            sendMessages(adr, mails);
+            sendMessages(grp, mail);
             disconnect();
         }
     }
-
 
     /*
     *  Méthode d'attente de réponse du serveur (attends 10ms, puis lit ce que le serveur a envoyé)
@@ -225,7 +224,6 @@ public class Knarp {
         int errcode;
 
         try {
-            Thread.sleep(10);
             s = _reader.readLine();
             System.out.println("[SMTP Server] " + s);
         } catch (Exception e) {
