@@ -35,5 +35,5 @@ Classe principale de l'application. Gère automatiquement toutes les étapes de 
 * Génération de groupes d'envoi de mails avec un émetteur et une liste de récepteurs
 * Envoi d'un mail (choisi au hasard) aux listes de mails
 
-### Auteurs
+## Auteurs
 Thibaut Loiseau & Romain Mercier
